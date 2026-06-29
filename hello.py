@@ -1,1 +1,2 @@
-print("Hello World!")
+print("こんにちはフタバさん")
+print("今日はいい天気ですね")
